@@ -241,6 +241,5 @@ public class ResourceCentreTest {
 
 	}
 
-	
-	//yunsan, ahmad
+	//yunsan, ahmad, yixun
 }
